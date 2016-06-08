@@ -33,7 +33,7 @@
 
      <!-- session configuration -->
      <session-config>
-             <session-timeout>45</session-timeout>
+             <session-timeout>85</session-timeout>
      </session-config>
 
 </web-app>
